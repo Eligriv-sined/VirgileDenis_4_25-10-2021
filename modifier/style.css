@@ -1036,13 +1036,17 @@ h4 {
 }
 
 
- a 
+a  
 {
     font-family: "helvetica";
     font-weight: 400;
     color: black!important;
 }
 
+.col-sm-4
+{
+    font-size: large;
+}
 
 .black {
     color: black!important;
