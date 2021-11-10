@@ -8,6 +8,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -1055,7 +1057,7 @@ a
 
 .col-sm-4
 {
-    font-size: large;
+    font-size: 1.5em;
 }
 
 .black {
