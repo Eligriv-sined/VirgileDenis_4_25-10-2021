@@ -1057,3 +1057,39 @@ a {
 .black {
   color: black !important;
 }
+
+#logo1
+{
+  height: auto;
+  width: auto;
+}
+
+#logo2
+{
+  height: 9em;
+  width: auto;
+}
+
+#pf1
+{
+  height: auto;
+  width: auto;
+}
+
+#pf2
+{
+  height: auto;
+  width: auto;
+}
+
+#pf3
+{
+  height: auto;
+  width: auto;
+}
+
+#pf4
+{
+  height: auto;
+  width: auto;
+}
