@@ -1060,8 +1060,8 @@ a {
 
 #logo1
 {
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
 }
 
 #logo2
@@ -1072,24 +1072,24 @@ a {
 
 #pf1
 {
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
 }
 
 #pf2
 {
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
 }
 
 #pf3
 {
-  height: auto;
-  width: auto;
+  height: 100%; 
+  width: 100%;
 }
 
 #pf4
 {
-  height: auto;
-  width: auto;
+  height: 100%;
+  width: 100%;
 }
